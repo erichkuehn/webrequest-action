@@ -28,5 +28,5 @@ outputs:
   output:
     description: 'data output from the web request'
 runs:
-  using: 'node16'
+  using: 'node12'
   main: 'dist/index.js'
